@@ -1,0 +1,124 @@
+=================================
+# Developed By: Anik saha × Sadullapur,gaibandha
+# GitHub @abusaeeidx
+# IPTV Telegram Channels: @xfireflixbd
+# Last Updated: 2026-06-06 11:38 PM (BD Time)
+# Disclaimer:
+# This tool does NOT host any content.
+# It aggregates publicly available data for informational purposes only.
+# For any issues or concerns, please contact the developer.
+#==================================
+#EXTM3U
+
+#=======AKASH GO=======
+#EXTINF:-1 tvg-id="134" tvg-logo="https://tstatic.akash-go.com/cms-ui/images/custom-content/1742713000749.png" group-title="Entertainment",Deepto TV HD 📺 (AKASH GO)
+https://owrcovcrpy.gpcdn.net/bpk-tv/1711/output/index.m3u8
+#EXTINF:-1 tvg-id="100" tvg-logo="https://tstatic.akash-go.com/cms-ui/images/custom-content/1735561344354.png" group-title="Entertainment",Bangla Vision 📺 (AKASH GO)
+https://owrcovcrpy.gpcdn.net/bpk-tv/1715/output/index.m3u8
+#EXTINF:-1 tvg-id="122" tvg-logo="https://i.imgur.com/0OCAzp3.jpeg" group-title="Entertainment",Sangsodh 📺 (AKASH GO)
+https://owrcovcrpy.gpcdn.net/bpk-tv/1709/output/index.m3u8
+#EXTINF:-1 tvg-id="65" tvg-logo="https://i.imgur.com/lFsE1yf.png" group-title="Entertainment", Aljazeera 📺 (AKASH GO)
+https://owrcovcrpy.gpcdn.net/bpk-tv/1721/output/index.m3u8
+#EXTINF:-1 tvg-id="99" tvg-logo="https://tstatic.akash-go.com/cms-ui/images/custom-content/1735560841094.png" group-title="Entertainment",NTV 📺 (AKASH GO)
+https://owrcovcrpy.gpcdn.net/bpk-tv/1716/output/index.m3u8
+#EXTINF:-1 tvg-id="131" tvg-logo="https://i.imgur.com/0yHAaUI.jpeg" group-title="Entertainment",Masranga 📺 (AKASH GO)
+https://owrcovcrpy.gpcdn.net/bpk-tv/1722/output/index.m3u8
+#EXTINF:-1 tvg-id="132" tvg-logo="https://tstatic.akash-go.com/cms-ui/images/custom-content/1740567626692.png" group-title="Entertainment",Channel I HD 📺 (AKASH GO)
+https://owrcovcrpy.gpcdn.net/bpk-tv/1723/output/index.m3u8
+#EXTINF:-1 tvg-id="97" tvg-logo="https://tstatic.akash-go.com/cms-ui/images/custom-content/1735560213832.png" group-title="News",Jamuna TV 📺 
+https://owrcovcrpy.gpcdn.net/bpk-tv/1701/output/index.m3u8
+#EXTINF:-1 tvg-id="93" tvg-logo="https://tstatic.akash-go.com/cms-ui/images/custom-content/1739962961772.png" group-title="News",ATN News 📺
+https://owrcovcrpy.gpcdn.net/bpk-tv/1706/output/index.m3u8
+#EXTINF:-1 tvg-id="94" tvg-logo="https://tstatic.akash-go.com/cms-ui/images/custom-content/1735556516924.png" group-title="News",Channel 24 HD 📺 
+https://owrcovcrpy.gpcdn.net/bpk-tv/1703/output/index.m3u8
+#EXTINF:-1 tvg-id="102" tvg-logo="https://tstatic.akash-go.com/cms-ui/images/custom-content/1739963327549.png" group-title="News",Ekattor HD 📺
+https://owrcovcrpy.gpcdn.net/bpk-tv/1705/output/index.m3u8
+#EXTINF:-1 tvg-id="96" tvg-logo="https://tstatic.akash-go.com/cms-ui/images/custom-content/1739964387847.png" group-title="News",Independent TV 📺 
+https://owrcovcrpy.gpcdn.net/bpk-tv/1704/output/index.m3u8
+#EXTINF:-1 tvg-id="98" tvg-logo="https://tstatic.akash-go.com/cms-ui/images/custom-content/1735560559088.png" group-title="News",Somoy  📺
+http://172.19.17.3:8090/hls/somoytv.m3u8
+#EXTINF:-1 tvg-id="98" tvg-logo="https://i.imgur.com/iQI3XF0.png" group-title="News",Channel 1  📺
+https://owrcovcrpy.gpcdn.net/bpk-tv/1702/output/index.m3u8
+
+
+#========hindi========
+#EXTINF:-1 tvg-id="134" tvg-logo="https://i.imgur.com/uK08JON.png" group-title="Hindi",And Picture 📺 
+#http://172.19.17.3:8090/hls/AndPictureHD.m3u8
+#EXTINF:-1 tvg-id="100" tvg-logo="https://i.imgur.com/UxeIiP7.jpeg" group-title="Hindi",Starplus HD 📺 
+#http://172.19.17.3:8090/hls/StarPlusHD.m3u8
+#EXTINF:-1 tvg-id="122" tvg-logo="https://i.imgur.com/EAQdpOa.png" group-title="Hindi",Sonymaxhd 📺 
+#http://172.19.17.3:8090/hls/sonymaxhd.m3u8
+#EXTINF:-1 tvg-id="65" tvg-logo="https://i.imgur.com/h4ns6dJ.jpeg" group-title="Hindi",Colors HD 📺 
+#http://172.19.17.3:8090/hls/ColorsHD.m3u8
+#EXTINF:-1 tvg-id="99" tvg-logo="https://i.imgur.com/mb8UzxH.jpeg" group-title="Hindi",Sony HD 📺 
+#http://172.19.17.3:8090/hls/SonyHD.m3u8
+#EXTINF:-1 tvg-id="99" tvg-logo="https://i.imgur.com/mb8UzxH.jpeg" group-title="Hindi",Sony
+#http://fast.luckonline.eu/live/y49sz6KMQs/6115263489/532.ts
+
+#======India Bangla=====
+#EXTINF:-1 tvg-id="131" tvg-logo="https://i.imgur.com/9Alx1l8.jpeg" group-title="India Bangla",Starjalsha HD-1 📺 
+https://proxy.aniksaha113.workers.dev/m3u8-proxy?url=https://bdx-livestream.github.io/Orbit345/starjalshahd-1.m3u8
+#EXTINF:-1 tvg-id="131" tvg-logo="https://i.imgur.com/9Alx1l8.jpeg" group-title="India Bangla",Starjalsha HD-2 📺 
+https://proxy.aniksaha113.workers.dev/m3u8-proxy?url=https://bdx-livestream.github.io/Orbit345/Starjalshahd-2.m3u8
+#EXTINF:-1 tvg-id="132" tvg-logo="https://i.imgur.com/dWYZRR3.jpeg" group-title="India Bangla",Zeebangla HD 📺
+https://proxy.aniksaha113.workers.dev/m3u8-proxy?url=https://bdx-livestream.github.io/Orbit345/Zeebanglahd.m3u8
+#EXTINF:-1 tvg-id="97" tvg-logo="https://i.imgur.com/4N1ZVzG.png" group-title="India Bangla",Colors Bangla HD 📺 
+#http://172.19.17.3:8090/hls/ColorsBanglaHD.m3u8
+#EXTINF:-1 tvg-id="93" tvg-logo="https://i.imgur.com/tlwUoyF.jpeg" group-title="India Bangla",Jalsha movies HD 📺 
+https://proxy.aniksaha113.workers.dev/m3u8-proxy?url=https://bdx-livestream.github.io/Orbit345/Jalshamovieshd.m3u8
+#EXTINF:-1 tvg-id="94" tvg-logo="https://i.imgur.com/G76HIcC.jpeg" group-title="India Bangla",Sony aatt 📺 
+https://proxy.aniksaha113.workers.dev/m3u8-proxy?url=https://bdx-livestream.github.io/Orbit345/Sonyaath.m3u8
+
+#=====news=====
+#EXTINF:-1 tvg-id="102" tvg-logo="https://i.imgur.com/lFsE1yf.png" group-title="News",Alzaazeera news 📺 
+#http://172.19.17.3:8090/hls/ALjazeeraNews.m3u8
+#EXTINF:-1 tvg-id="96" tvg-logo="https://i.imgur.com/a59MjEW.png" group-title="News",BBC world 📺 
+#http://172.19.17.3:8090/hls/bbc_world.m3u8
+
+#=======sports=====
+#EXTINF:-1 tvg-id="98" tvg-logo="https://i.imgur.com/NQZWKTG.jpeg" group-title="Sports",Asports  📺 
+#http://172.19.17.3:8090/hls/ASportsHD.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.b com/Ia4W08C.jpeg" group-title="Sports",T Sports HD  📺
+#http://172.19.17.4:8090/hls/tntsports1hd.m3u8 
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/mwAou7A.jpeg" group-title="Sports",Ptv sports 📺
+#http://172.19.17.3:8090/hls/ptvsportshd.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/T75KtZ5.png" group-title="Sports",Btv nationalHD 📺
+#http://172.19.17.3:8090/hls/BTVNationalHD.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://tstatic.akash-go.com/cms-ui/images/custom-content/1735560559088.png" group-title="Sports",Somoy Tv 📺
+#http://172.19.17.3:8090/hls/somoytv.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/1KPwJoX.jpeg" group-title="Sports",Starsports select2HD 📺
+$http://172.19.17.3:8090/hls/StarSportsSelect2HD.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/tE02AHy.jpeg" group-title="Sports",Starsports select1HD 📺
+#http://172.19.17.3:8090/hls/StarSportsSelect1HD.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/cIcyIFL.jpeg" group-title="Sports",Starsports2HD 📺
+#http://172.19.17.3:8090/hls/StarSports2HD.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/OQtJBk1.jpeg" group-title="Sports",Sonyten5HD 📺
+#http://172.19.17.3:8090/hls/SonyTen5HD.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/bDwidEi.jpeg" group-title="Sports",Sonyten2HD 📺
+#http://172.19.17.3:8090/hls/SonyTen2hd.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/7RF0PNz.jpeg" group-title="Sports",Sonyten3HD 📺
+#http://172.19.17.3:8090/hls/SonyTen3hd.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/MCM6ddM.png" group-title="Sports",Beinsports1ENG 📺
+#http://172.19.17.3:8090/hls/BeinSports1ENG.m3u8
+
+
+
+#=====music======
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/TRNmxpc.jpeg" group-title="Music",Sangeet Bangla 📺
+#http://172.19.17.3:8090/hls/SangeetBangla.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/dCfQBK2.jpeg" group-title="Music",9xm 📺
+#http://172.19.17.3:8090/hls/9xm.m3u8
+
+#=====Kids=====
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/d6gAMOu.png" group-title="Kids",Discovery kids 📺
+#http://172.19.17.3:8090/hls/DiscoveryKids.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/i0ZlpSL.png" group-title="Kids",Cartoon network 📺
+#http://172.19.17.3:8090/hls/CartoonNetworkHD.m3u8
+
+#======English=====
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/pUcPzzf.png" group-title="English",StarMovies HD 📺
+#http://172.19.17.3:8090/hls/StarMoviesHD.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/lD632qS.jpeg" group-title="English",Discovery HD📺
+#http://172.19.17.3:8090/hls/DiscoveryHD.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/3Li19b9.png" group-title="English",NatGeoWorl HD📺
+#http://172.19.17.3:8090/hls/NatGeoWild.m3u8
