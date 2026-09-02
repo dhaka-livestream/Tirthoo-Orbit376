@@ -71,7 +71,7 @@ https://orbit376.pages.dev/Orbit-Sony8.m3u8
 #EXTINF:-1 tvg-id="102" tvg-logo="https://i.imgur.com/lFsE1yf.png" group-title="News",Alzaazeera news 📺 
 https://orbit376.pages.dev/orbit-alzaazeeranews.m3u8
 #EXTINF:-1 tvg-id="96" tvg-logo="https://i.imgur.com/a59MjEW.png" group-title="News",BBC world 📺 
-#http://172.19.17.3:8090/hls/bbc_world.m3u8
+https://orbit376.pages.dev/orbit-bbcworldnews.m3u8
 
 #=======sports=====
 #EXTINF:-1 tvg-id="98" tvg-logo="https://i.imgur.com/NQZWKTG.jpeg" group-title="Sports",Asports  📺 
