@@ -77,7 +77,7 @@ https://orbit376.pages.dev/orbit-bbcworldnews.m3u8
 #EXTINF:-1 tvg-id="98" tvg-logo="https://i.imgur.com/NQZWKTG.jpeg" group-title="Sports",Asports  📺 
 https://orbit376.pages.dev/orbit-ASportsHD.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.b com/Ia4W08C.jpeg" group-title="Sports",T Sports HD  📺
-#http://172.19.17.4:8090/hls/tntsports1hd.m3u8 
+https://orbit376.pages.dev/orbit-TSportsHD.m3u8 
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/mwAou7A.jpeg" group-title="Sports",Ptv sports 📺
 #http://172.19.17.3:8090/hls/ptvsportshd.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/T75KtZ5.png" group-title="Sports",Btv nationalHD 📺
