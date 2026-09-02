@@ -103,7 +103,7 @@ https://orbit376.pages.dev/Orbit-beinSports1eng.m3u8
 
 #=====music======
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/TRNmxpc.jpeg" group-title="Music",Sangeet Bangla 📺
-#http://172.19.17.3:8090/hls/SangeetBangla.m3u8
+https://orbit376.pages.dev/Orbit-sangeetbangla.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/dCfQBK2.jpeg" group-title="Music",9xm 📺
 #http://172.19.17.3:8090/hls/9xm.m3u8
 
