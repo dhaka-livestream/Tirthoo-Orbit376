@@ -56,10 +56,8 @@ https://orbit376.pages.dev/Orbit-sonyhd.m3u8
 #http://fast.luckonline.eu/live/y49sz6KMQs/6115263489/532.ts
 
 #======India Bangla=====
-#EXTINF:-1 tvg-id="131" tvg-logo="https://i.imgur.com/9Alx1l8.jpeg" group-title="India Bangla",Starjalsha HD-1 📺 
-https://proxy.aniksaha113.workers.dev/m3u8-proxy?url=https://bdx-livestream.github.io/Orbit345/starjalshahd-1.m3u8
-#EXTINF:-1 tvg-id="131" tvg-logo="https://i.imgur.com/9Alx1l8.jpeg" group-title="India Bangla",Starjalsha HD-2 📺 
-https://proxy.aniksaha113.workers.dev/m3u8-proxy?url=https://bdx-livestream.github.io/Orbit345/Starjalshahd-2.m3u8
+#EXTINF:-1 tvg-id="131" tvg-logo="https://i.imgur.com/9Alx1l8.jpeg" group-title="India Bangla",Starjalsha HD 📺 
+https://orbit376.pages.dev/Orbit-Starjalshahd.m3u8
 #EXTINF:-1 tvg-id="132" tvg-logo="https://i.imgur.com/dWYZRR3.jpeg" group-title="India Bangla",Zeebangla HD 📺
 https://proxy.aniksaha113.workers.dev/m3u8-proxy?url=https://bdx-livestream.github.io/Orbit345/Zeebanglahd.m3u8
 #EXTINF:-1 tvg-id="97" tvg-logo="https://i.imgur.com/4N1ZVzG.png" group-title="India Bangla",Colors Bangla HD 📺 
