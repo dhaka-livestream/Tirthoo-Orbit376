@@ -45,7 +45,7 @@ https://owrcovcrpy.gpcdn.net/bpk-tv/1702/output/index.m3u8
 #EXTINF:-1 tvg-id="134" tvg-logo="https://i.imgur.com/uK08JON.png" group-title="Hindi",And Picture 📺 
 https://orbit376.pages.dev/Orbit-Andpicturehd.m3u8
 #EXTINF:-1 tvg-id="100" tvg-logo="https://i.imgur.com/UxeIiP7.jpeg" group-title="Hindi",Starplus HD 📺 
-#http://172.19.17.3:8090/hls/StarPlusHD.m3u8
+https://orbit376.pages.dev/Orbit-Starplushd.m3u8
 #EXTINF:-1 tvg-id="122" tvg-logo="https://i.imgur.com/EAQdpOa.png" group-title="Hindi",Sonymaxhd 📺 
 #http://172.19.17.3:8090/hls/sonymaxhd.m3u8
 #EXTINF:-1 tvg-id="65" tvg-logo="https://i.imgur.com/h4ns6dJ.jpeg" group-title="Hindi",Colors HD 📺 
