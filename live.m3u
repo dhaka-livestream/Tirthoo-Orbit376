@@ -115,7 +115,7 @@ https://orbit376.pages.dev/Orbit-Cartoonnetwork.m3u8
 
 #======English=====
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/pUcPzzf.png" group-title="English",StarMovies HD 📺
-#http://172.19.17.3:8090/hls/StarMoviesHD.m3u8
+https://orbit376.pages.dev/Orbit-starmovieshd.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/lD632qS.jpeg" group-title="English",Discovery HD📺
 #http://172.19.17.3:8090/hls/DiscoveryHD.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/3Li19b9.png" group-title="English",NatGeoWorl HD📺
