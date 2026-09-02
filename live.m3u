@@ -83,7 +83,7 @@ https://orbit376.pages.dev/orbit-PTSports.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/T75KtZ5.png" group-title="Sports",Btv nationalHD 📺
 https://orbit376.pages.dev/orbit-Btvnational.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://tstatic.akash-go.com/cms-ui/images/custom-content/1735560559088.png" group-title="Sports",Somoy Tv 📺
-#http://172.19.17.3:8090/hls/somoytv.m3u8
+https://orbit376.pages.dev/Orbit-somoytv.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/1KPwJoX.jpeg" group-title="Sports",Starsports select2HD 📺
 $http://172.19.17.3:8090/hls/StarSportsSelect2HD.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/tE02AHy.jpeg" group-title="Sports",Starsports select1HD 📺
